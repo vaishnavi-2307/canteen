@@ -2,7 +2,7 @@
 
 import 'dart:convert';
 
-import 'package:canteen/domain/opt_in.dart';
+import 'package:canteen/model/opt_in.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 part 'report.freezed.dart';
 part 'report.g.dart';

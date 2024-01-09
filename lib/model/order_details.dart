@@ -1,5 +1,5 @@
-import 'package:canteen/domain/report.dart';
-import 'package:canteen/domain/user.dart';
+import 'package:canteen/model/report.dart';
+import 'package:canteen/model/user.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 part 'order_details.freezed.dart';
 part 'order_details.g.dart';

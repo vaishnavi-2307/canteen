@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:canteen/domain/order_details.dart';
-import 'package:canteen/domain/report.dart';
+import 'package:canteen/model/order_details.dart';
+import 'package:canteen/model/report.dart';
 import 'package:canteen/service/api_service.dart';
 import 'package:equatable/equatable.dart';
 

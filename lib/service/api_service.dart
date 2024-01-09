@@ -1,4 +1,4 @@
-import 'package:canteen/domain/order_details.dart';
+import 'package:canteen/model/order_details.dart';
 import 'package:dio/dio.dart';
 
 class ApiService {

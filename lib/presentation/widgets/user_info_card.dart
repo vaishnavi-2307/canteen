@@ -1,4 +1,4 @@
-import 'package:canteen/domain/user.dart';
+import 'package:canteen/model/user.dart';
 import 'package:flutter/material.dart';
 
 import 'helper_functions.dart';
